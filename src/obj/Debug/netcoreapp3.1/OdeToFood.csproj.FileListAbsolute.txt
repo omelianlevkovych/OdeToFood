@@ -146,3 +146,5 @@ C:\Users\oml\Desktop\git\petproj\OdeToFood\src\bin\Debug\netcoreapp3.1\OdeToFood
 C:\Users\oml\Desktop\git\petproj\OdeToFood\src\bin\Debug\netcoreapp3.1\OdeToFood.Data.dll
 C:\Users\oml\Desktop\git\petproj\OdeToFood\src\bin\Debug\netcoreapp3.1\OdeToFood.Data.pdb
 C:\Users\oml\Desktop\git\petproj\OdeToFood\src\bin\Debug\netcoreapp3.1\OdeToFood.Core.pdb
+C:\Users\oml\Desktop\git\petproj\OdeToFood\src\obj\Debug\netcoreapp3.1\Razor\Pages\Restaurants\Detail.cshtml.g.cs
+C:\Users\oml\Desktop\git\petproj\OdeToFood\src\obj\Debug\netcoreapp3.1\Razor\Pages\Restaurants\NotFound.cshtml.g.cs
