@@ -140,7 +140,6 @@ C:\Users\oml\Desktop\git\petproj\OdeToFood\src\bin\Debug\netcoreapp3.1\ru\Micros
 C:\Users\oml\Desktop\git\petproj\OdeToFood\src\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\oml\Desktop\git\petproj\OdeToFood\src\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\oml\Desktop\git\petproj\OdeToFood\src\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\oml\Desktop\git\petproj\OdeToFood\src\obj\Debug\netcoreapp3.1\OdeToFood.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\oml\Desktop\git\petproj\OdeToFood\src\obj\Debug\netcoreapp3.1\Razor\Pages\Restaurants\List.cshtml.g.cs
 C:\Users\oml\Desktop\git\petproj\OdeToFood\src\bin\Debug\netcoreapp3.1\OdeToFood.Core.dll
 C:\Users\oml\Desktop\git\petproj\OdeToFood\src\bin\Debug\netcoreapp3.1\OdeToFood.Data.dll
@@ -148,3 +147,5 @@ C:\Users\oml\Desktop\git\petproj\OdeToFood\src\bin\Debug\netcoreapp3.1\OdeToFood
 C:\Users\oml\Desktop\git\petproj\OdeToFood\src\bin\Debug\netcoreapp3.1\OdeToFood.Core.pdb
 C:\Users\oml\Desktop\git\petproj\OdeToFood\src\obj\Debug\netcoreapp3.1\Razor\Pages\Restaurants\Detail.cshtml.g.cs
 C:\Users\oml\Desktop\git\petproj\OdeToFood\src\obj\Debug\netcoreapp3.1\Razor\Pages\Restaurants\NotFound.cshtml.g.cs
+C:\Users\oml\Desktop\git\petproj\OdeToFood\src\obj\Debug\netcoreapp3.1\OdeToFood.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\oml\Desktop\git\petproj\OdeToFood\src\obj\Debug\netcoreapp3.1\Razor\Pages\Restaurants\Edit.cshtml.g.cs
